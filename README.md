@@ -15,6 +15,8 @@ If GitHub displays a file page instead of downloading, use **Download raw file**
 
 ## Preview
 
+[View replacement visual candidates A–F](design-candidates/README.md): new research-process covers and more literal factor illustrations, presented for selection.
+
 ![Overview of the complete 23-slide deck](deliverables/deck-overview.jpg)
 
 ## Content and validation
