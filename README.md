@@ -2,6 +2,8 @@
 
 A complete 23-slide presentation with a financial editorial design, GPT-generated illustrations, editable research text and data visuals, original PnL charts, and speaker notes.
 
+The current edition uses the selected **B research-notebook cover and closing**, with simplified, text-free factor illustrations designed for small slide regions. Where captions help, they are editable 17-point text with no more than two short labels per illustration.
+
 ## Downloads
 
 - [PowerPoint deck](deliverables/alpha-research.pptx?raw=true)
@@ -15,7 +17,9 @@ If GitHub displays a file page instead of downloading, use **Download raw file**
 
 ## Preview
 
-[View replacement visual candidates A–F](design-candidates/README.md): new research-process covers and more literal factor illustrations, presented for selection.
+[View the latest visual changes](deliverables/visual-update.jpg): notebook opening and closing, a compact two-channel factor illustration, and minimal symbols in a tight slide region.
+
+[View the earlier visual candidates A–F](design-candidates/README.md): the concepts used to choose the current direction.
 
 ![Overview of the complete 23-slide deck](deliverables/deck-overview.jpg)
 

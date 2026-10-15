@@ -18,3 +18,6 @@ Slide 12 now says the first-hour signal KEEPS approximately 60% after a one-week
 
 Fonts
 Liberation Serif; Liberation Sans; DejaVu Sans Mono. Use the PDF or rendered PNG slides for consistent appearance on machines without these fonts.
+
+Selected visual revision
+The cover and closing use the approved B research-notebook direction. Seven regenerated factor illustrations combine simplified mechanism diagrams and literal business subjects. The factor images contain no embedded text; where needed, up to two editable 17-point captions are supplied on the slides. All artwork is fitted without cropping away content. The existing slide text, notes, chart images and slow-run metrics were verified against the previous edition.

@@ -1,8 +1,10 @@
 # Replacement visual candidates
 
-Six GPT Image concepts for comparison. The current presentation files have not been replaced. Covers A–C illustrate the alpha research process and can be adapted to both opening and closing slides. Factor candidates D–F use **over-expansion** as the common example so the visual styles can be compared directly.
+Six GPT Image concepts from the design review. **B was selected for the cover and closing.** The published presentation now uses simplified D/F-inspired factor illustrations, removing embedded text and fine detail so they work in small slide regions. [See the applied revision](../deliverables/visual-update.jpg).
 
-The preferred direction can then be adapted to all seven factors. These are conceptual illustrations, not new empirical results.
+Covers A–C illustrate the alpha research process. Factor candidates D–F use **over-expansion** as the common example so the visual styles can be compared directly.
+
+The selected direction has been adapted to all seven factors. These are conceptual illustrations, not new empirical results.
 
 | Candidate | Direction | Emphasis |
 | --- | --- | --- |
